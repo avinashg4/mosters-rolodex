@@ -1,0 +1,16 @@
+.search {
+    -webkit-appearance : none;
+    border:none;
+    outline:none;
+    padding:10px;
+    width:200px;
+    border-radius:25px;
+    line-height:30px;
+    margin-bottom:30px;
+    margin-left:1200px;
+    margin-top:5px;
+}
+.search:hover{
+    background-color:black;
+    color:white;
+}
