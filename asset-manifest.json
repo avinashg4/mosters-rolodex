@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/avinashg4/mosters-rolodex/static/css/main.1b4dc25c.chunk.css",
-    "main.js": "/avinashg4/mosters-rolodex/static/js/main.d177faa9.chunk.js",
-    "main.js.map": "/avinashg4/mosters-rolodex/static/js/main.d177faa9.chunk.js.map",
-    "runtime-main.js": "/avinashg4/mosters-rolodex/static/js/runtime-main.164af456.js",
-    "runtime-main.js.map": "/avinashg4/mosters-rolodex/static/js/runtime-main.164af456.js.map",
-    "static/js/2.120397f5.chunk.js": "/avinashg4/mosters-rolodex/static/js/2.120397f5.chunk.js",
-    "static/js/2.120397f5.chunk.js.map": "/avinashg4/mosters-rolodex/static/js/2.120397f5.chunk.js.map",
-    "static/js/3.7856a17a.chunk.js": "/avinashg4/mosters-rolodex/static/js/3.7856a17a.chunk.js",
-    "static/js/3.7856a17a.chunk.js.map": "/avinashg4/mosters-rolodex/static/js/3.7856a17a.chunk.js.map",
-    "index.html": "/avinashg4/mosters-rolodex/index.html",
-    "static/css/main.1b4dc25c.chunk.css.map": "/avinashg4/mosters-rolodex/static/css/main.1b4dc25c.chunk.css.map",
-    "static/js/2.120397f5.chunk.js.LICENSE.txt": "/avinashg4/mosters-rolodex/static/js/2.120397f5.chunk.js.LICENSE.txt"
+    "main.css": "/mosters-rolodex/static/css/main.1b4dc25c.chunk.css",
+    "main.js": "/mosters-rolodex/static/js/main.d177faa9.chunk.js",
+    "main.js.map": "/mosters-rolodex/static/js/main.d177faa9.chunk.js.map",
+    "runtime-main.js": "/mosters-rolodex/static/js/runtime-main.e2adba6b.js",
+    "runtime-main.js.map": "/mosters-rolodex/static/js/runtime-main.e2adba6b.js.map",
+    "static/js/2.120397f5.chunk.js": "/mosters-rolodex/static/js/2.120397f5.chunk.js",
+    "static/js/2.120397f5.chunk.js.map": "/mosters-rolodex/static/js/2.120397f5.chunk.js.map",
+    "static/js/3.7856a17a.chunk.js": "/mosters-rolodex/static/js/3.7856a17a.chunk.js",
+    "static/js/3.7856a17a.chunk.js.map": "/mosters-rolodex/static/js/3.7856a17a.chunk.js.map",
+    "index.html": "/mosters-rolodex/index.html",
+    "static/css/main.1b4dc25c.chunk.css.map": "/mosters-rolodex/static/css/main.1b4dc25c.chunk.css.map",
+    "static/js/2.120397f5.chunk.js.LICENSE.txt": "/mosters-rolodex/static/js/2.120397f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.164af456.js",
+    "static/js/runtime-main.e2adba6b.js",
     "static/js/2.120397f5.chunk.js",
     "static/css/main.1b4dc25c.chunk.css",
     "static/js/main.d177faa9.chunk.js"
